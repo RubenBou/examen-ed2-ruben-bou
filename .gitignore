@@ -1,0 +1,8 @@
+#dentro de la carpeta latyers todo lo que acabe en .class
+layers/*.class
+#Carpeta events
+events/
+#Lo que acaba en lock.json
+*lock.json
+#Carpeta node_modules sin borrar src
+src/node_modules/
